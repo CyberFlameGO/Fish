@@ -38,4 +38,4 @@ To get the slow, churning distortion that I wanted from Fish required downsampli
 
 Fish also lowers the amplitude of the incoming signal by about 6 dB before processing, and raises it by 6 dB after processing. Without this step, loud signals could clip during the MP3 compression step, leading to unwanted distortion.
 
-For more details on messing with LAME to get low latency, see my notes [here](understanding_lame/notes.md).
+*For more details on messing with LAME to get low latency, see my notes [here](understanding_lame/notes.md).*
