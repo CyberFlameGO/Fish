@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="a4vis5" name="Fish" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              pluginManufacturer="Arden Butterfield" pluginManufacturerCode="Awbb"
+              pluginCode="fish" headerPath="./lib/lame-master/include">
+  <MAINGROUP id="eUDmVl" name="Fish">
+    <GROUP id="{97187A06-D136-0455-0684-2C709C8BA5EA}" name="filterCalc">
+      <FILE id="tTVRpp" name="FilterCalc.cpp" compile="1" resource="0" file="Source/filterCalc/FilterCalc.cpp"/>
+      <FILE id="PK51nX" name="FilterCalc.h" compile="0" resource="0" file="Source/filterCalc/FilterCalc.h"/>
+    </GROUP>
+    <GROUP id="{807D4C52-44E1-E7DD-217D-952C7D5D7672}" name="Fish Images">
+      <FILE id="RrvNkW" name="fish-ghost-0.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-0.png"/>
+      <FILE id="bVejSP" name="fish-ghost-1.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-1.png"/>
+      <FILE id="jZ5Q7m" name="fish-ghost-2.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-2.png"/>
+      <FILE id="l6OdRs" name="fish-ghost-3.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-3.png"/>
+      <FILE id="VSaJUe" name="fish-ghost-4.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-4.png"/>
+      <FILE id="Noogey" name="fish-ghost-5.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-5.png"/>
+      <FILE id="SfIcCi" name="fish-ghost-6.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-6.png"/>
+      <FILE id="qyXRws" name="fish-ghost-7.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-7.png"/>
+      <FILE id="j9ovcV" name="fish-ghost-8.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-8.png"/>
+      <FILE id="ijgVdc" name="fish-ghost-9.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-9.png"/>
+      <FILE id="rdx0Kz" name="fish-ghost-10.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-10.png"/>
+      <FILE id="KL161x" name="fish-ghost-11.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-11.png"/>
+      <FILE id="YO3cbc" name="fish-ghost-12.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-12.png"/>
+      <FILE id="loQAYE" name="fish-ghost-13.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-13.png"/>
+      <FILE id="DLfHYJ" name="fish-ghost-14.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-14.png"/>
+      <FILE id="vgIUJ7" name="fish-ghost-15.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-15.png"/>
+      <FILE id="hbfGUN" name="fish-ghost-16.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-16.png"/>
+      <FILE id="j2h9qK" name="fish-ghost-17.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-17.png"/>
+      <FILE id="OeZWVG" name="fish-ghost-18.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-18.png"/>
+      <FILE id="mGHUgO" name="fish-ghost-19.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-19.png"/>
+      <FILE id="rpjLqW" name="fish-ghost-20.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-20.png"/>
+      <FILE id="Tpetue" name="fish-ghost-21.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-21.png"/>
+      <FILE id="DsYmZh" name="fish-ghost-22.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-22.png"/>
+      <FILE id="BdOrIl" name="fish-ghost-23.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-23.png"/>
+      <FILE id="JRjGM5" name="fish-ghost-24.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-24.png"/>
+      <FILE id="x6SRZE" name="fish-ghost-25.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-25.png"/>
+      <FILE id="OVJXy6" name="fish-ghost-26.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-26.png"/>
+      <FILE id="CXuoCl" name="fish-ghost-27.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-27.png"/>
+      <FILE id="CV6E3c" name="fish-ghost-28.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-28.png"/>
+      <FILE id="CmQsHD" name="fish-ghost-29.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-29.png"/>
+      <FILE id="XgbsqB" name="fish-ghost-30.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-30.png"/>
+      <FILE id="ZmASHT" name="fish-ghost-31.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-31.png"/>
+      <FILE id="doZoNy" name="fish-ghost-32.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-32.png"/>
+      <FILE id="Gnhiav" name="fish-ghost-33.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-33.png"/>
+      <FILE id="EWUP9q" name="fish-ghost-34.png" compile="0" resource="1"
+            file="spinwork/fish-ghost-34.png"/>
+      <FILE id="FGnulM" name="fish-unique-0.png" compile="0" resource="1"
+            file="spinwork/fish-unique-0.png"/>
+      <FILE id="fFdwmH" name="fish-unique-1.png" compile="0" resource="1"
+            file="spinwork/fish-unique-1.png"/>
+      <FILE id="YKpQ2G" name="fish-unique-2.png" compile="0" resource="1"
+            file="spinwork/fish-unique-2.png"/>
+      <FILE id="bt3lz7" name="fish-unique-3.png" compile="0" resource="1"
+            file="spinwork/fish-unique-3.png"/>
+      <FILE id="dVdrr2" name="fish-unique-4.png" compile="0" resource="1"
+            file="spinwork/fish-unique-4.png"/>
+      <FILE id="sbE6bC" name="fish-unique-5.png" compile="0" resource="1"
+            file="spinwork/fish-unique-5.png"/>
+      <FILE id="aySbfL" name="fish-unique-6.png" compile="0" resource="1"
+            file="spinwork/fish-unique-6.png"/>
+      <FILE id="v3Fr0p" name="fish-unique-7.png" compile="0" resource="1"
+            file="spinwork/fish-unique-7.png"/>
+      <FILE id="WBjlXf" name="fish-unique-8.png" compile="0" resource="1"
+            file="spinwork/fish-unique-8.png"/>
+      <FILE id="uILBcd" name="fish-unique-9.png" compile="0" resource="1"
+            file="spinwork/fish-unique-9.png"/>
+      <FILE id="EeNRSn" name="fish-unique-10.png" compile="0" resource="1"
+            file="spinwork/fish-unique-10.png"/>
+      <FILE id="Wuftb0" name="fish-unique-11.png" compile="0" resource="1"
+            file="spinwork/fish-unique-11.png"/>
+      <FILE id="TyVuJg" name="fish-unique-12.png" compile="0" resource="1"
+            file="spinwork/fish-unique-12.png"/>
+      <FILE id="frCLLe" name="fish-unique-13.png" compile="0" resource="1"
+            file="spinwork/fish-unique-13.png"/>
+      <FILE id="UFLw6T" name="fish-unique-14.png" compile="0" resource="1"
+            file="spinwork/fish-unique-14.png"/>
+      <FILE id="icfuSt" name="fish-unique-15.png" compile="0" resource="1"
+            file="spinwork/fish-unique-15.png"/>
+      <FILE id="pSti5R" name="fish-unique-16.png" compile="0" resource="1"
+            file="spinwork/fish-unique-16.png"/>
+      <FILE id="aaM3Xu" name="fish-unique-17.png" compile="0" resource="1"
+            file="spinwork/fish-unique-17.png"/>
+      <FILE id="smpTaN" name="fish-unique-18.png" compile="0" resource="1"
+            file="spinwork/fish-unique-18.png"/>
+      <FILE id="G3yBOH" name="fish-unique-19.png" compile="0" resource="1"
+            file="spinwork/fish-unique-19.png"/>
+      <FILE id="AdaO2M" name="fish-unique-20.png" compile="0" resource="1"
+            file="spinwork/fish-unique-20.png"/>
+      <FILE id="FmsotC" name="fish-unique-21.png" compile="0" resource="1"
+            file="spinwork/fish-unique-21.png"/>
+      <FILE id="zUFU2x" name="fish-unique-22.png" compile="0" resource="1"
+            file="spinwork/fish-unique-22.png"/>
+      <FILE id="oqoDE5" name="fish-unique-23.png" compile="0" resource="1"
+            file="spinwork/fish-unique-23.png"/>
+      <FILE id="K0KItl" name="fish-unique-24.png" compile="0" resource="1"
+            file="spinwork/fish-unique-24.png"/>
+      <FILE id="jPXWP7" name="fish-unique-25.png" compile="0" resource="1"
+            file="spinwork/fish-unique-25.png"/>
+      <FILE id="nL3vHJ" name="fish-unique-26.png" compile="0" resource="1"
+            file="spinwork/fish-unique-26.png"/>
+      <FILE id="ziSz39" name="fish-unique-27.png" compile="0" resource="1"
+            file="spinwork/fish-unique-27.png"/>
+      <FILE id="yboeLi" name="fish-unique-28.png" compile="0" resource="1"
+            file="spinwork/fish-unique-28.png"/>
+      <FILE id="UkEhDN" name="fish-unique-29.png" compile="0" resource="1"
+            file="spinwork/fish-unique-29.png"/>
+      <FILE id="AfIqAI" name="fish-unique-30.png" compile="0" resource="1"
+            file="spinwork/fish-unique-30.png"/>
+      <FILE id="s2hvsJ" name="fish-unique-31.png" compile="0" resource="1"
+            file="spinwork/fish-unique-31.png"/>
+      <FILE id="OpjPgL" name="fish-unique-32.png" compile="0" resource="1"
+            file="spinwork/fish-unique-32.png"/>
+      <FILE id="iFHhgT" name="fish-unique-33.png" compile="0" resource="1"
+            file="spinwork/fish-unique-33.png"/>
+      <FILE id="A1Q9yp" name="fish-unique-34.png" compile="0" resource="1"
+            file="spinwork/fish-unique-34.png"/>
+    </GROUP>
+    <GROUP id="{B8DD38BD-96A4-3CC4-5F10-574FC7898036}" name="Source">
+      <FILE id="zCezmG" name="upsampler.h" compile="0" resource="0" file="Source/upsampler.h"/>
+      <FILE id="MSM7Kx" name="downsampler.h" compile="0" resource="0" file="Source/downsampler.h"/>
+      <FILE id="gGqvM8" name="LookAndFeel.h" compile="0" resource="0" file="Source/LookAndFeel.h"/>
+      <FILE id="RKBzHO" name="MP3Processor.cpp" compile="1" resource="0"
+            file="Source/MP3Processor.cpp"/>
+      <FILE id="NWyiy3" name="MP3Processor.h" compile="0" resource="0" file="Source/MP3Processor.h"/>
+      <FILE id="PKbREB" name="RingBuffer.h" compile="0" resource="0" file="Source/RingBuffer.h"/>
+      <FILE id="XtW0WK" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="yOYjje" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="FYn2DU" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="avINH4" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+    <GROUP id="{B61C5512-C4DB-C33F-0377-8DA55E32BB26}" name="stk-filters">
+      <FILE id="ZmanQB" name="BiQuad.cpp" compile="1" resource="0" file="Source/stk-filters/BiQuad.cpp"/>
+      <FILE id="gcdKfi" name="BiQuad.h" compile="0" resource="0" file="Source/stk-filters/BiQuad.h"/>
+      <FILE id="ciPcnq" name="Filter.h" compile="0" resource="0" file="Source/stk-filters/Filter.h"/>
+      <FILE id="ym7tIt" name="Stk.cpp" compile="1" resource="0" file="Source/stk-filters/Stk.cpp"/>
+      <FILE id="LZGDde" name="Stk.h" compile="0" resource="0" file="Source/stk-filters/Stk.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX" extraCompilerFlags="-I../../lib/lame-master/include"
+               extraLinkerFlags="../../lib/lame-master/libmp3lame/.libs/libmp3lame.a"
+               xcodeValidArchs="x86_64">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Fish"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Fish" osxArchitecture="Native"
+                       macOSDeploymentTarget="13.1" osxCompatibility="13.1 SDK"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../Applications/JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+</JUCERPROJECT>
