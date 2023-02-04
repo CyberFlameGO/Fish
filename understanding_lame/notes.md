@@ -350,7 +350,16 @@ But before going into that, there's a more glaring source of delay. In running t
 142	2304
 ```
 
-After the first few frames, the decoder oscillates between returning samples and not returning samples. Graphing this, we can see the amount of delay creeping up, before settling into an osscilation. Once again the LAME technical FAQ gives some clues:
+After the first few frames, the decoder oscillates between returning samples and not returning samples. Graphing this, we can see the amount of delay creeping up, before settling into an osscilation. 
+
+<img src="images/delay1152.png">
+
+We get a similar pattern even after changing the size of the buffers we push into the encoder.
+
+<img src="images/delay40.png">
+
+
+Once again the LAME technical FAQ gives some clues:
 
 ```
 The MP3 data for frame N is not stored in frame N, but can be spread
